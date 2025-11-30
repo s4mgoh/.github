@@ -35,8 +35,8 @@ For collaboration inquiries, project discussions, or just to connect, feel free 
 ---
 ### Find Me Elsewhere
 
-- **LinkedIn:** [https://www.linkedin.com/in/](https://www.linkedin.com/in/s4m-goh)
-- **Discord:** [https://discord.com/users/](https://discord.com/users/1369722449431756854)
+- **LinkedIn:** [https://www.linkedin.com/in/s4m-goh](https://www.linkedin.com/in/s4m-goh)
+- **Discord:** [https://discord.com/users/1369722449431756854](https://discord.com/users/1369722449431756854)
 
 ---
 <p align="center">
