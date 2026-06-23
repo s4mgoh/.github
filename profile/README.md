@@ -7,11 +7,11 @@
 </p>
 
 ### Who Am I
-I'm Samuel, an aspiring Cybersecurity Researcher & student currently pursuing my studies in **Higher-Nitec in Cyber & Network Security** at **ITE College Central**. I am dedicated to understanding the intricacies of offensive security, exploring system vulnerabilities, and building secure infrastructure.
+I'm Samuel, an aspiring Cybersecurity Researcher & student currently pursuing my studies in **Cybersecurity and Digital Forensics** at **Nanyang Polytechnic (NYP)**. I am dedicated to understanding the intricacies of offensive security, exploring system vulnerabilities, and building secure infrastructure.
 
 ---
 ### What I Do
-- [x] **Internship Experience:** Contributed to the product design & codebase of [**CyPenPoint**](https://www.custodiotech.com.sg/cypenpoint) during my time at [**Custodio Technologies**](https://www.custodiotech.com.sg/).
+- [x] **Internship Experience:** (ITE) Contributed to the product design & codebase of [**CyPenPoint**](https://www.custodiotech.com.sg/cypenpoint) during my time at [**Custodio Technologies**](https://www.custodiotech.com.sg/).
 - [x] **Offensive Tooling:** Developed hardware & software tools, including a custom **Keystroke Injector** for security testing.
 - [x] **Lab Development:** Created a vulnerable Virtual Machine (similar to [**HackTheBox**](https://www.hackthebox.com/) challenges) to simulate real-world attack vectors.
 - [x] **Vulnerability Research:** Actively studying exploit development & network defense strategies.
